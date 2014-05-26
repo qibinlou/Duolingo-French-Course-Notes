@@ -7,7 +7,7 @@
     mon        ton        son        notre        votre        leur
     mes        tes        ses        nos        vos        leurs        
     
-    sale        lis
+    sale        lis        rapas
 
 ####Gramma
 1. Vocubalary第一行：阳性单数名词所有格
@@ -28,3 +28,6 @@
 9. Nous sommes ses enfants. (*We are her children.*)
 10. Leurs enfants ecrivent. (*Their children are writing.*)
 11. Votre femme est avec vos enfants. (*Your wife is with your children.*)
+12. Nous mangeons notre repas. (*We are eating our meal.*)
+13. Ta souris mange du fromage. (*Your mouse is eating cheese.*)
+14. Mes livres sont rouges. (*My books are red.*)
