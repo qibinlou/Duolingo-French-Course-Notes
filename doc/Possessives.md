@@ -14,9 +14,9 @@
 2. Vocubalary第二行：阴性单数名词所有格
 3. Vocubalary第三行：阳性&阴性复数名词所有格
 4. 依次是：我的 你的 Ta的  我们的  你们的 Ta们的
-5. 只要阴性名词以元音开头，所有格就用阳性的形式. e.g. son argent.
+5. 只要阴性名词以元音开头，所有格就用阳性的形式. e.g. s'ilon argent.
 
-####Sentence
+####Sentenced
 1. Ma chienne est sale. (*My dog is dirty.2.*)
 2. Tu es mon cheval. (*You are my horse.*)
 3. Ma femme cuisine. (*My wife cooks.*)
@@ -31,3 +31,6 @@
 12. Nous mangeons notre repas. (*We are eating our meal.*)
 13. Ta souris mange du fromage. (*Your mouse is eating cheese.*)
 14. Mes livres sont rouges. (*My books are red.*)
+15. Je bois son eau. (*I am drinking his water.*)
+16. Vos enfants ? (*Your children?*)
+17. Son poivre est noir. (*His pepper is black.*)

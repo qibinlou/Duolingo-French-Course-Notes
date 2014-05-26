@@ -5,7 +5,8 @@
 ####Vocabulary
     viande    tomate    sandwich    baguette    soupe    nourriture
     alcool    oeuf      oignon      salade      l'alcool    l'oeuf
-    lait      riz       pain        vin         biere
+    lait      riz       pain        vin         biere        beurre
+    sal       citron        carrot
     bois      boivent
     du    
     
@@ -16,7 +17,7 @@
 
 3. **positive**: viande, sandwich, baguette, soupe, nourriture, lait, riz, vin, pain
     
-4. **negtive:** tomate, salade, biere
+4. **negtive:** tomate, salade, biere, carotte
 
 
 ####Sentence
@@ -32,3 +33,4 @@
 10. Une biere, s'il te plait! (*A beer, please!*)
 11. Le vin, s'il vous plait!
 12. Il a du vin. (*He has wine.hg*)
+13. L'enfant mange le repas. (*The child is eating the meal.*)
